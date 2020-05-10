@@ -54,6 +54,8 @@ Please make sure to update tests as appropriate.
 
 
 ## Todos :pencil:
+* Apply the model to images
+* Apply the model to live camera feeds
 
 License :key:
 ----
