@@ -10,6 +10,11 @@ This project was inspired by seeing others implement their own solutions. Since 
 </p>
 
 ## Features :gem:
+* Dataset
+To create the dataset, Prajna had an ingenious solution of:
+- Taking normal images of faces
+- Then creating a python script to add face masks by using facial landmarks. You can refer to <a href="https://github.com/prajnasb/observations/tree/master/mask_classifier/Data_Generator">Prajna's GitHub repository</a> to find out how this is done.
+(When using an artificial dataset of people wearing masks, the images without masks in the training setcannot be re-used. Non-face mask images images that were not used in the artificial generation process need to be gathered. If not done this way, the model will become heavily biased and fail to generalize well.)
 
 ## Installation :package:
 1. Clone the repo
