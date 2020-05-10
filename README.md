@@ -48,6 +48,10 @@ Please make sure to update tests as appropriate.
 * I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> too.:relaxed:
 
 ## References :book:
+* <a href="https://github.com/prajnasb/observations">Prajna's GitHub repository</a>
+* <a href="https://arxiv.org/abs/1801.04381">MobileNet V2 architecture</a>
+* <a href="http://www.image-net.org/">ImageNet</a>
+
 
 ## Todos :pencil:
 
