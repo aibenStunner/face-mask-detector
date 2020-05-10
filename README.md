@@ -4,6 +4,11 @@
 
  A COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.:relaxed:
 
+<h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
+<p>
+This project was inspired by seeing others implement their own solutions. Since I had some knowledge in that field, I wanted to try my hands on it also. I'm going to build from <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655711815361761280/">Prajna Bhandry's</a> work.
+</p>
+
 ## Features :gem:
 
 ## Installation :package:
