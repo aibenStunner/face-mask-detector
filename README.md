@@ -32,7 +32,8 @@ To create the dataset, Prajna had an ingenious solution of:
 ## Usage :computer:
 
 ## Demo :movie_camera:
-* COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smil:.
+* COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smile:.
+
 ![](plot.png)
    
  
