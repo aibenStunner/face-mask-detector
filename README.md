@@ -30,11 +30,22 @@ To create the dataset, Prajna had an ingenious solution of:
 ```
 
 ## Usage :computer:
-
+* To build the mask detector model, open up a shell and issue the following command:
+```bash
+   $ python mask_detector_trainer.py --dataset dataset
+```
+* Implementing the COVID-19 face mask detector for images with OpenCV
+```bash
+   $ python detect_mask_image.py --image test_images/test_01.jpeg
+```
 ## Demo :movie_camera:
 * COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smile:.
 
 ![](plot.png)
+
+* Mask detection using the COVID-19 face mask detector:smile:.
+
+![](demo.png)
    
  
  ## Contributing :gift: [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
@@ -54,7 +65,8 @@ Please make sure to update tests as appropriate.
 
 
 ## Todos :pencil:
-* Apply the model to images
+* Improve the accuracy of the mask detector. 
+The dataset didn't contain example images of people wearing face masks ergo when a large portion of the face is occluded, the face detector might fail to detect the face.
 * Apply the model to live camera feeds
 
 License :key:
