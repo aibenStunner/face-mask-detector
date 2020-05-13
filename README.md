@@ -38,6 +38,10 @@ To create the dataset, Prajna had an ingenious solution of:
 ```bash
    $ python detect_mask_image.py --image test_images/test_01.jpeg
 ```
+* Implementing the COVID-19 face mask detector for video stream with OpenCV
+```bash
+   $ python detect_mask_video.py
+```
 ## Demo :movie_camera:
 * COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smile:.
 
