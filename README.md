@@ -2,7 +2,7 @@
     Face Mask Detector
 </h1>
 
- A COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.:relaxed:
+ A COVID-19 face mask detector built with OpenCV, Keras/TensorFlow, and Deep Learning.:relaxed:
 
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
 <p>
