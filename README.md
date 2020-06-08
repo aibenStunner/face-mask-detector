@@ -2,7 +2,7 @@
     Face Mask Detector
 </h1>
 
- A COVID-19 face mask detector with OpenCV, Keras/TensorFlow, and Deep Learning.:relaxed:
+ A COVID-19 face mask detector built with OpenCV, Keras/TensorFlow, and Deep Learning.:relaxed:
 
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
 <p>
@@ -59,7 +59,7 @@ Please make sure to update tests as appropriate.
 ## Want to talk more??
  If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
 * Email - ebenezergadri99@gmail.com :e-mail:
-* Let's connect on <a href="https://www.linkedin.com/in/ebenezer-kweku-gadri-akrong-22b19a185/">LinkedIn.</a> :pushpin:
+* Let's connect on <a href="https://www.linkedin.com/in/thegadri/">LinkedIn.</a> :pushpin:
 * I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> too.:relaxed:
 
 ## References :book:
