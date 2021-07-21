@@ -22,7 +22,7 @@ To create the dataset, Prajna had an ingenious solution of:
 1. Clone the repo
 ```bash
    $ git clone https://github.com/aibenStunner/face-mask-detector.git
-   $ cd image-search-engine
+   $ cd face-mask-detector
 ```
 2. Install dependencies
 ```bash
